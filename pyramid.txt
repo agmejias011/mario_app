@@ -1,0 +1,1 @@
+Mario is either walking or standing, as the height is 0
